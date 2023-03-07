@@ -15,4 +15,3 @@ This project was created as a personal project by Kory Keegan.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-# birthdayCountdown
